@@ -1,0 +1,38 @@
+body {
+	font-family: "Aclonica";
+	background-color: #FFD8D8;	
+}	
+		
+
+	h1 {
+			color: brown;
+			background-color: #ECE5CE;
+			text-align: center;
+			font-size: 24pt;
+	}
+
+		p {
+			line-height: 1.5em;
+			color: black;
+			text-indent: 30px;
+			margin-left: 10px;
+		}
+	
+	h3 { 
+		color: brown;
+		background-color: #ECE5CE;
+		text-align: center;
+		font-size: 16pt;
+	}
+
+	div {
+	background-color: white;	
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+
+	
+	
+	
